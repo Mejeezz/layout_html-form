@@ -1,1 +1,13 @@
-/* styles go here */
+.formLabeled {
+  display: block;
+  margin: 10px 0;
+}
+
+.formLabeledEnd {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.fieldset {
+  margin-bottom: 20px;
+}
